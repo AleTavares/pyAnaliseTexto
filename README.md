@@ -1,0 +1,2 @@
+# pyAnaliseTexto
+Analise de Textos
